@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techo-Bloc Products</title>
+    <link>https://www.techo-bloc.com</link>
+    <description>Product Feed</description>
+    <atom:link href="https://www.techo-bloc.com/feed/products.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Aberdeen | Patio Slabs | Techo-Bloc</title>
+      <description><![CDATA[When it comes to patio slabs, some say: go bold or go home. Aberdeen Slabs are massive and luxurious, and could be just what you need.]]></description>
+      <link>https://www.techo-bloc.com/shop/slabs/aberdeen</link>
+      <guid isPermaLink="false">ABE-SL01</guid>
+      <enclosure url="https://www.techo-bloc.com/assets/75/23/7523e9c8-35ff-4d7f-a9af-579f78cc9b97/12d46a8f68f34b469228392acde8faf4.jpeg" length="12345" type="image/jpeg" />
+    </item>
+
+  </channel>
+</rss>

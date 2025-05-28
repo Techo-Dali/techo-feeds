@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>ABE-SL01</id>
+    <title><![CDATA[Aberdeen | Patio Slabs | Techo-Bloc]]></title>
+    <description><![CDATA[Aberdeen Slabs are massive and luxurious, and could be just what you need.]]></description>
+    <google_product_category>1</google_product_category>
+    <product_type>Patio Slabs</product_type>
+    <link>https://www.techo-bloc.com/shop/slabs/aberdeen</link>
+    <image_link>https://www.techo-bloc.com/assets/75/23/7523e9c8-35ff-4d7f-a9af-579f78cc9b97/12d46a8f68f34b469228392acde8faf4.jpeg</image_link>
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>0.00 USD</price>
+    <brand>Techo-Bloc</brand>
+    <mpn></mpn>
+    <gtin></gtin>
+    <additional_image_link></additional_image_link>
+    <gender>unisex</gender>
+    <age_group>all ages</age_group>
+    <color>Beige Cream</color>
+    <is_bundle>false</is_bundle>
+    <material>Concrete</material>
+    <unit_pricing_measure>1 unit</unit_pricing_measure>
+    <unit_pricing_base_measure>1 unit</unit_pricing_base_measure>
+    <sale_price>0.00 USD</sale_price>
+    <sale_price_effective_date></sale_price_effective_date>
+    <custom_label_1>Hardscaping</custom_label_1>
+  </product>
+</products>

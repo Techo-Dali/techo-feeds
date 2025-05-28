@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
 <channel>
 <title>Techo-Bloc Product Catalog</title>
@@ -15,9 +15,11 @@
 <g:availability>in stock</g:availability>
 <g:brand>Techo-Bloc</g:brand>
 <g:condition>new</g:condition>
-<g:google_product_category>416</g:google_product_category> <!-- Replace with a more accurate category code if needed -->
+<g:google_product_category>416</g:google_product_category>
 <g:product_type>Slabs > Patio Slabs</g:product_type>
 </item>
+ 
+    <!-- Repeat <item> blocks for each product -->
  
   </channel>
 </rss>

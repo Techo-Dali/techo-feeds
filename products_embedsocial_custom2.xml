@@ -1,0 +1,29 @@
+<?xml version="2.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id><![CDATA[ABE-SL01]]></id>
+    <title><![CDATA[Aberdeen | Patio Slabs | Techo-Bloc]]></title>
+    <description><![CDATA[Aberdeen Slabs are massive and luxurious, and could be just what you need.]]></description>
+    <google_product_category><![CDATA[1]]></google_product_category>
+    <product_type><![CDATA[Patio Slabs]]></product_type>
+    <link><![CDATA[https://www.techo-bloc.com/shop/slabs/aberdeen]]></link>
+    <image_link><![CDATA[https://www.techo-bloc.com/assets/75/23/7523e9c8-35ff-4d7f-a9af-579f78cc9b97/12d46a8f68f34b469228392acde8faf4.jpeg]]></image_link>
+    <condition><![CDATA[new]]></condition>
+    <availability><![CDATA[in stock]]></availability>
+    <price><![CDATA[0.00 USD]]></price>
+    <brand><![CDATA[Techo-Bloc]]></brand>
+    <mpn><![CDATA[]]></mpn>
+    <gtin><![CDATA[]]></gtin>
+    <additional_image_link><![CDATA[]]></additional_image_link>
+    <gender><![CDATA[unisex]]></gender>
+    <age_group><![CDATA[all ages]]></age_group>
+    <color><![CDATA[Beige Cream]]></color>
+    <is_bundle><![CDATA[false]]></is_bundle>
+    <material><![CDATA[Concrete]]></material>
+    <unit_pricing_measure><![CDATA[1 unit]]></unit_pricing_measure>
+    <unit_pricing_base_measure><![CDATA[1 unit]]></unit_pricing_base_measure>
+    <sale_price><![CDATA[0.00 USD]]></sale_price>
+    <sale_price_effective_date><![CDATA[]]></sale_price_effective_date>
+    <custom_label_1><![CDATA[Hardscaping]]></custom_label_1>
+  </product>
+</products>

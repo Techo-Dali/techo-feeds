@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Techo-Bloc Product Feed</title>
+    <link>https://www.techo-bloc.com</link>
+    <description>Google-compliant product feed for EmbedSocial</description>
+
+    <item>
+      <g:id><![CDATA[ABE-SL01]]></g:id>
+      <g:title><![CDATA[Aberdeen | Patio Slabs | Techo-Bloc]]></g:title>
+      <g:link><![CDATA[https://www.techo-bloc.com/shop/slabs/aberdeen]]></g:link>
+      <g:image_link><![CDATA[https://www.techo-bloc.com/assets/75/23/7523e9c8-35ff-4d7f-a9af-579f78cc9b97/12d46a8f68f34b469228392acde8faf4.jpeg]]></g:image_link>
+      <g:price><![CDATA[0.00 USD]]></g:price>
+    </item>
+
+  </channel>
+</rss>
